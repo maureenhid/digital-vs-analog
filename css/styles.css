@@ -13,3 +13,11 @@
 .analog p a {
   font-style: italic;
 }
+
+.digital p a {
+  font-weight: bold;
+}
+
+a {
+  font-weight: normal;
+}
